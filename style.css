@@ -32,7 +32,7 @@ body {
 /* Create a tall banner with a rich nature-inspired overlay. */
 .cta-banner {
   min-height: 100vh;
-  padding: 40px 24px 140px;
+  padding: 60px 24px 140px;
   text-align: center;
   vertical-align: top;
   display: table;
